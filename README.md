@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @yaokui2018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  bhshare.cn@gmail.com
+- 👋 Hi, I’m @yaokui2018. I know web development and deep learning algorithms and like to make things that are fun to play but not profitable.
 
-http://www.bhshare.cn/
+- 📫 Email：bhshare.cn@gmail.com
+- 💞️ Gitee：https://gitee.com/yaokui
+
+- 👀 Personal Website：http://www.bhshare.cn/
+
+
 
 <!---
 yaokui2018/yaokui2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
