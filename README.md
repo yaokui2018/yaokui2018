@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @yaokui2018. I know web development and deep learning algorithms and like to make things that are fun to play but not profitable.
 
-- 📫 Email：bhshare.cn@gmail.com
 - 💞️ Gitee：https://gitee.com/yaokui
+- 🔑 CSDN：https://blog.csdn.net/qq_40738764
+- 📕 简书: https://www.jianshu.com/u/5710116756f8
 
+<br>
+
+- 📫 Email：bhshare.cn@gmail.com
 - 👀 Personal Website：http://www.bhshare.cn/
-
 
 
 <!---
