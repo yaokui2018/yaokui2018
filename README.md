@@ -1,5 +1,5 @@
 <!--- ![visitor badge](https://thread-erratic-podium.glitch.me/badge?page_id=yaokui2018) --->
-[![github stats](https://github-readme-stats.vercel.app/api?username=yaokui2018&show_icons=true&hide=prs,issues&theme=ambient_gradient&rank_icon=github)](https://github.com/yaokui2018)
+[![github stats](https://github-readme-stats.vercel.app/api?username=yaokui2018&show_icons=true&hide=prs,issues&theme=ambient_gradient&rank_icon=github&count_private=true)](https://github.com/yaokui2018)
 
 - 👋 Hi, I’m @yaokui2018. I know web development and deep learning algorithms and like to make things that are fun to play but not profitable.
 
